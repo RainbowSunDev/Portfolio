@@ -49,7 +49,8 @@ function About(props) {
                 <Col sm={12} md={12} lg={6} style={styles.introTextContainer}>
                   {parseIntro(data.about)}
                 </Col>
-                <Col sm={12} md={12} lg={6} style={styles.introImageContainer}>
+                <Col md={2} lg={2}></Col>
+                <Col sm={12} md={10} lg={4} style={styles.introImageContainer}>
                   <img
                     src={data?.imageSource}
                     className="profile-pic"
