@@ -1,20 +1,20 @@
 {
     "social": [
         {
-            "network" : "linkedin",
+            "network": "linkedin",
             "href": "https://linkedin.com/in/iwamoto-yuki-65924223a"
         },
         {
-            "network" : "github",
-            "href": "https://github.com/Cheetah0723"
+            "network": "github",
+            "href": "https://github.com/RainbowSunDev"
         },
         {
-            "network" : "telegram",
+            "network": "telegram",
             "href": "https://t.me/IwaYuki"
         },
         {
-            "network" : "email",
-            "href": "mailto:iyuki723@gmail.com"
+            "network": "email",
+            "href": "mailto:rainbowsun.pop@gmail.com"
         }
     ]
 }

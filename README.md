@@ -194,7 +194,7 @@ All customizable files are inside the `public/` folder, organised mainly into `p
 
 ```
 {
-    "name": "Iwamoto Yuki",
+    "name": "Hideto Mizutani",
     "roles": ["a  Web Developer", "a Blockchain Developer", "a Software Engineer"]
 }
 ```
@@ -213,7 +213,7 @@ All customizable files are inside the `public/` folder, organised mainly into `p
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/in/iwamoto-yuki-65924223a"
+            "href": "https://linkedin.com/in/hideto-mizutani-65924223a"
         },
         {
             "network" : "github",
@@ -656,7 +656,7 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Notable Portfolios made using this template
 
-- [Iwamoto Yuki](https://iyuki.com)
+- [Hideto Mizutani](https://iyuki.com)
 
 ## Authors
 
