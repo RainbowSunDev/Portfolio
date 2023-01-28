@@ -2,10 +2,8 @@
     "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
     "skills": [
         {
-     
             "title": "Languages",
-            "items" : [
-     
+            "items": [
                 {
                     "icon": "images/skills/java.png",
                     "title": "Java"
@@ -34,7 +32,7 @@
         },
         {
             "title": "Frameworks & Technologies",
-            "items" : [
+            "items": [
                 {
                     "icon": "images/skills/angular.png",
                     "title": "Angular"
@@ -54,11 +52,23 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/flutter.png",
+                    "title": "Flutter"
+                },
+                {
+                    "icon": "images/skills/react-native.png",
+                    "title": "React Native"
+                },
+                {
+                    "icon": "images/skills/tailwind-css.svg",
+                    "title": "TailwindCSS"
                 }
             ]
         },
         {
-            "title" : "Databases",
+            "title": "Databases",
             "items": [
                 {
                     "icon": "images/skills/mysql.png",
@@ -75,7 +85,7 @@
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title": "Tools & Platforms",
             "items": [
                 {
                     "icon": "images/skills/android-studio.png",
@@ -100,7 +110,7 @@
             ]
         },
         {
-            "title" : "Game Tools",
+            "title": "Game Tools",
             "items": [
                 {
                     "icon": "images/skills/unity.png",
@@ -121,7 +131,7 @@
             ]
         },
         {
-            "title" : "Blockchain",
+            "title": "Blockchain",
             "items": [
                 {
                     "icon": "images/skills/ethereum.png",

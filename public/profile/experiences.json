@@ -1,51 +1,25 @@
 {
     "experiences": [
         {
-            "title": "Web & Blockchain Developer",
-            "subtitle": "RoqqetMedia Ltd",
-            "workType": "Part-time",
-            "workDescription": [
-                "Worked on 2 NFT projects and one wordpress project."
-            ],
-            "dateText": "04/2022 – Present"
-        },
-        {
-            "title": "Blockchain Developer",
-            "subtitle": "Pressply Ltd, etc",
-            "workType": "Part-time",
-            "workDescription": [
-                "Taken part in development of large crypto freelancing platform like Frontier.",
-                "Worked on 10 NFT projects and several dapp, defi projects."
-            ],
-            "dateText": "09/2019 – 03/2022"
-        },
-        {
-            "title": "Web Developer",
-            "subtitle": "INTERSOG Ltd",
+            "title": "Senior Front-end Developer",
+            "subtitle": "Fjorge l Minneapolis, MN 55402, USA",
             "workType": "Full-Time",
             "workDescription": [
-                "Worked on 3+ 3D/2D web game using Unity, Three.js, Canvas, WebGL",
-                "Worked on 5+ projects using MERN stack."
+                "Develop and build dynamic user interfaces to support large-scale ecommerce platform projects in Agile environments for enterprise client accounts valued at up to $3M.",
+                "Manage a team of 20+ front-end developers, software engineers,and graphic designers throughout the project lifecycle, provided coaching and mentorship, and established a collaborative work culture centered on creativity and empowerment",
+                "Lead the development of web applications and the implementation of Agile and Scrum throughout the organization to enhance project delivery by 20%"
             ],
-            "dateText": "01/2018 – 09/2019"
+            "dateText": "Sep 2018 – Oct 2022"
         },
         {
-            "title": "Web Developer",
-            "subtitle": "NRI Ltd",
+            "title": "Lead Front-End Developer",
+            "subtitle": "Appen l Chatswood NSW 2067, Australia",
             "workType": "Full-Time",
             "workDescription": [
-                "Worked on 10+ projects using MERN stack."
+                "Created custom front-end frameworks for marketing, advertising, and e-commerce websites, platforms, and applications, which included managing all aspects of prototyping, wireframing, debugging, and coding activities", 
+                "Developed innovative features in coordination with stakeholders,technical teams, and the product management organization to improve user satisfaction, which generated a 15% increase in mobile app downloads"
             ],
-            "dateText": "07/2016 – 01/2018"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "VMO Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework."
-            ],
-            "dateText": "03/2015 – 07/2016"
+            "dateText": "Jan 2014 – Sep 2018"
         }
     ]
 }

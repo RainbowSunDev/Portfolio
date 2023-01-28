@@ -194,7 +194,7 @@ All customizable files are inside the `public/` folder, organised mainly into `p
 
 ```
 {
-    "name": "Hideto Mizutani",
+    "name": "Hideto Clark",
     "roles": ["a  Web Developer", "a Blockchain Developer", "a Software Engineer"]
 }
 ```
@@ -656,7 +656,7 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Notable Portfolios made using this template
 
-- [Hideto Mizutani](https://iyuki.com)
+- [Hideto Clark](https://iyuki.com)
 
 ## Authors
 
