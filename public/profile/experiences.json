@@ -1,25 +1,35 @@
 {
     "experiences": [
         {
-            "title": "Senior Front-end Developer",
-            "subtitle": "Fjorge",
+            "title": "Lead Software Engineer",
+            "subtitle": "Dubber, Melbourne",
             "workType": "Full-Time",
             "workDescription": [
-                "Develop and build dynamic user interfaces to support large-scale ecommerce platform projects in Agile environments for enterprise client accounts valued at up to $3M.",
-                "Manage a team of 20+ front-end developers, software engineers,and graphic designers throughout the project lifecycle, provided coaching and mentorship, and established a collaborative work culture centered on creativity and empowerment",
-                "Lead the development of web applications and the implementation of Agile and Scrum throughout the organization to enhance project delivery by 20%"
+                "Planned architecture and developed an identity provider (IDP) for a multinational supermarket chain, reducing the running cost almost by 10% and improving the system’s response time.",
+                "Led a team in redesigning the deployment pipeline using Jenkins, reducing release time from 3 hours to  45 minutes.",
+                " Created a new application that transcribes a voice recording to text using speech-to-text API. By enabling users to analyse their call interactions, it helped improve customer satisfaction and identify potential issues, resulting in a 20% increase in user engagement."
             ],
-            "dateText": "Sep 2018 – Oct 2022"
+            "dateText": "Mar 2021 - Feb 2023"
         },
         {
-            "title": "Lead Front-End Developer",
-            "subtitle": "Appen",
+            "title": "Senior Software Engineer",
+            "subtitle": "Quick Check, London",
             "workType": "Full-Time",
             "workDescription": [
-                "Created custom front-end frameworks for marketing, advertising, and e-commerce websites, platforms, and applications, which included managing all aspects of prototyping, wireframing, debugging, and coding activities", 
-                "Developed innovative features in coordination with stakeholders,technical teams, and the product management organization to improve user satisfaction, which generated a 15% increase in mobile app downloads"
+                "Refactored an application due to issues with performance and looming bottlenecks, increasing in response speed and enhancing scalability to handle larger workloads.", 
+                "Implemented innovative check-in solutions for restaurants and hotels using React, streamlining their reservation and guest management processes. These enhancements improved guest satisfaction, and increased operational efficiency."
             ],
-            "dateText": "Jan 2014 – Sep 2018"
+            "dateText": "Nov 2018 - Dec 2021"
+        },
+        {
+            "title": "Full Stack Developer",
+            "subtitle": "Scholly, Los Angeles",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Developed a whole cross-platform application from the beginning, starting from the sketches to the standalone product.", 
+                "Suggested and implemented improvements in application development to enhance compatibility with the existing API, streamlining the scholarship matching algorithm and AI-powered academic support tools. This resulted in more accurate scholarship recommendations, faster processing times, and easier updates in future iterations."
+            ],
+            "dateText": "Nov 2016 - Oct 2018"
         }
     ]
 }

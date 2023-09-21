@@ -40,7 +40,7 @@ function Skills(props) {
 
   return (
     <>
-      <Header title={header} />
+      {/* <Header title={header} /> */}
       {data ? (
         <Fade>
           <div className="section-content-container">

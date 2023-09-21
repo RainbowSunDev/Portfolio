@@ -1,20 +1,12 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "intro": "KNOWLEDGE, EXPERIENCE, AND SKILLS :",
     "skills": [
         {
             "title": "Languages",
             "items": [
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/c-plus-plus.svg",
-                    "title": "C++"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
                 },
                 {
                     "icon": "images/skills/js.png",
@@ -25,18 +17,18 @@
                     "title": "Typescript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
                 }
             ]
         },
         {
-            "title": "Frameworks & Technologies",
+            "title": "Frameworks ",
             "items": [
-                {
-                    "icon": "images/skills/angular.png",
-                    "title": "Angular"
-                },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
@@ -46,10 +38,6 @@
                     "title": "Vue"
                 },
                 {
-                    "icon": "images/skills/svelte.png",
-                    "title": "Svelte"
-                },
-                {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
                 },
@@ -57,10 +45,7 @@
                     "icon": "images/skills/flutter.png",
                     "title": "Flutter"
                 },
-                {
-                    "icon": "images/skills/react-native.png",
-                    "title": "React Native"
-                },
+                
                 {
                     "icon": "images/skills/tailwind-css.svg",
                     "title": "TailwindCSS"
@@ -87,14 +72,7 @@
         {
             "title": "Tools & Platforms",
             "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
-                {
-                    "icon": "images/skills/css.png",
-                    "title": "CSS"
-                },
+                
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
@@ -106,27 +84,6 @@
                 {
                     "icon": "images/skills/cloudflare.png",
                     "title": "Cloudflare"
-                }
-            ]
-        },
-        {
-            "title": "Game Tools",
-            "items": [
-                {
-                    "icon": "images/skills/unity.png",
-                    "title": "Unity"
-                },
-                {
-                    "icon": "images/skills/unreal.png",
-                    "title": "Unreal Engine"
-                },
-                {
-                    "icon": "images/skills/three.png",
-                    "title": "ThreeJs"
-                },
-                {
-                    "icon": "images/skills/html5.png",
-                    "title": "Html5"
                 }
             ]
         },
